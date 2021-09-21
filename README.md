@@ -3,7 +3,7 @@
 ### Acesse meu linkedIn 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-brito-neto/)
 ### Visite o site do meu produto
- [![Site](https://img.shields.io/website?label=Caracasdelivery.site&style=for-thebadge&url=https://caracasdelivery.site/)](https://www.linkedin.com/in/pedro-brito-neto/)
+ [![Site](https://img.shields.io/website?label=Caracasdelivery.site&style=for-thebadge&url=https://caracasdelivery.site/)](https://www.caracasdelivery.site/)
  
  <p>
 - 🔭 Atualmente buscando oportunidade na área de desenvolvimento de sistema
